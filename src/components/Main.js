@@ -3,11 +3,10 @@ import './Main.css';
 
 function Main() {
   return (
-    <div className="Main" style={{transform: [{rotate: '180deg'}]}}>
+    <div className="Main">
 
-      <h2>Welcome to my website</h2>
-      <br />
-      <p>This is the main content area of my website.</p>
+      <h2>Upload some bullshit to the cloud today!</h2>
+      <p>choose which file to upload below</p>
       <br />
       <form>
         <label>
