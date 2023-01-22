@@ -9,6 +9,8 @@ function App() {
       <Header />
       <Main />
       <Button />
+      <br />
+      <Button />
     </div>
   );
 }

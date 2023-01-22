@@ -1,8 +1,9 @@
-header {
+Header {
     display: flex;
     align-items: center;
     padding: 100px;
     margin-bottom: 100px;
+    background-color: aqua;
   }
   
 .logo {
