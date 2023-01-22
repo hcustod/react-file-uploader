@@ -3,7 +3,7 @@ import './Main.css';
 
 function Main() {
   return (
-    <div className="main" style={{transform: [{rotate: '18s0deg'}]}}>
+    <div className="Main" style={{transform: [{rotate: '180deg'}]}}>
 
       <h2>Welcome to my website</h2>
       <br />

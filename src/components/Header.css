@@ -1,9 +1,17 @@
-Header {
-    display: flex;
+.Header {
     align-items: center;
-    padding: 100px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    border-block: 5px;
+    border-style: dashed;
+    border-block-color: blue;
+    margin-top: 65px;
     margin-bottom: 100px;
     background-color: aqua;
+    transform: rotate(-5deg); 
+    
+    
+    
   }
   
 .logo {

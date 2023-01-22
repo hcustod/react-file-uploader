@@ -3,8 +3,8 @@ import './Header.css';
 
 function Header() {
   return (
-    <div className="header">
-        <h1 className="title">My Website</h1>
+    <div className="Header">
+        <h1 className="title">BullSh*t Uploader</h1>
     </div>
   );
 }
